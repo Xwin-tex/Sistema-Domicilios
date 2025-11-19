@@ -42,30 +42,27 @@ EJECUCIÓN DEL PROGRAMA
    o consultar reportes.
 
 
-ESTRUCTURA DEL PROYECTO
-------------------------
+## ESTRUCTURA DEL PROYECTO
+
+```
 Sistemas de domicilios.py
-│
 ├── Estructuras de datos personalizadas
 │   ├── ListaLigada
 │   ├── Pila
 │   ├── Cola
 │   ├── ArbolBinarioBusqueda
 │   └── Grafo
-│
 ├── Entidades principales
 │   ├── Cliente
 │   ├── Restaurante
 │   ├── Domiciliario
 │   ├── Pedido
 │   └── Zona
-│
 ├── Sistema de gestión
 │   └── SistemaGestionPedidos
-│
 └── Interfaz
     └── MenuConsola (interfaz de texto)
-
+```
 
 AUTORES
 -------
