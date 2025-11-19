@@ -50,7 +50,7 @@ Sistemas de domicilios.py
 │   ├── ListaLigada
 │   ├── Pila
 │   ├── Cola
-│   ├── ArbolBinarioBusqueda
+│   ├── Arbol Binario
 │   └── Grafo
 ├── Entidades principales
 │   ├── Cliente
